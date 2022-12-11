@@ -1,5 +1,4 @@
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/maythazinphyo1/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop>?style=flat-square)
 
 ![workflow](https://github.com/maythazinphyo1/sem/actions/workflows/main.yml/badge.svg)
 
